@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1736892656 source:c:\users\alexandra\desktop\simulare a pietei bursiere\main.cpp
+	<iostream>
+	"Actiune.hpp"
+	"Piata.hpp"
+	"Strategii.hpp"
+	"Simulare.hpp"
+
+1736892963 c:\users\alexandra\desktop\simulare a pietei bursiere\actiune.hpp
+	<string>
+	<iostream>
+
+1736892969 c:\users\alexandra\desktop\simulare a pietei bursiere\piata.hpp
+	<vector>
+	"Actiune.hpp"
+
+1736892963 c:\users\alexandra\desktop\simulare a pietei bursiere\strategii.hpp
+	<cstdlib>
+
+1736892990 c:\users\alexandra\desktop\simulare a pietei bursiere\simulare.hpp
+	"Piata.hpp"
+	"Strategii.hpp"
+	<iostream>
+
